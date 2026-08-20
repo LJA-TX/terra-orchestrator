@@ -1,0 +1,6 @@
+interface:
+  display_name: "Terra Orchestrator"
+  short_description: "Economical Terra-Luna task orchestration"
+  default_prompt: "Use $terra-orchestrator to schedule this Terra-parent task with a rolling Luna worker pool."
+policy:
+  allow_implicit_invocation: false
