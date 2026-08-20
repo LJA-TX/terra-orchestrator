@@ -1,6 +1,6 @@
 # Terra Orchestrator
 
-`terra-orchestrator` is a Codex skill for tasks whose parent model is already GPT-5.6 Terra. Terra stays the chief reasoner and integrator. Independent work may be delegated to a bounded, rolling pool of GPT-5.6 Luna workers when that is likely to improve quality, cost, or elapsed time.
+`terra-orchestrator` is a Codex skill for tasks with a confirmed GPT-5.6 Terra parent. Terra stays the chief reasoner and integrator. Independent work may be delegated to a bounded, rolling pool of GPT-5.6 Luna workers when that is likely to improve quality, cost, or elapsed time.
 
 It does not select or change the parent model. Invoke it explicitly with `$terra-orchestrator`.
 
